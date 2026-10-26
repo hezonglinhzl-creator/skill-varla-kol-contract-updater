@@ -1,0 +1,46 @@
+{
+  "files": 8,
+  "bytes": 24750,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 948,
+      "sha256": "1943e27e4961d5102b92e19a37200336fd79fd73741815e17aeab4e2cd014ed5"
+    },
+    {
+      "path": "skill/varla-kol-contract-updater/agents/openai.yaml",
+      "bytes": 259,
+      "sha256": "4b5968954d8b9012df2155874d3b822550015c091fdfa4856e3441a9b90ec02f"
+    },
+    {
+      "path": "skill/varla-kol-contract-updater/scripts/update_contract.py",
+      "bytes": 10781,
+      "sha256": "3c75683835bd5f1b8446338324041f9bbdc2464d493beed1a079677c0defcd83"
+    },
+    {
+      "path": "skill/varla-kol-contract-updater/SKILL.md",
+      "bytes": 11389,
+      "sha256": "a81617cb80429cac12c815087f84c554e591dea7ee482ccca023bd52bd383603"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
