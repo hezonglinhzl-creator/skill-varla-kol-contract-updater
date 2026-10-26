@@ -1,6 +1,6 @@
 {
-  "files": 8,
-  "bytes": 24750,
+  "files": 11,
+  "bytes": 35939,
   "entries": [
     {
       "path": ".gitignore",
@@ -13,14 +13,29 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 3728,
+      "sha256": "2de0c88581b96cf858fdf52b0551819858f1a8d1c962a5a94168803fa144a477"
+    },
+    {
       "path": "README.md",
-      "bytes": 948,
-      "sha256": "1943e27e4961d5102b92e19a37200336fd79fd73741815e17aeab4e2cd014ed5"
+      "bytes": 3457,
+      "sha256": "00cc00f69511dccfdea41d723ce13274c45de6885291450a3e1d9b64e003ac8f"
     },
     {
       "path": "skill/varla-kol-contract-updater/agents/openai.yaml",
       "bytes": 259,
       "sha256": "4b5968954d8b9012df2155874d3b822550015c091fdfa4856e3441a9b90ec02f"
+    },
+    {
+      "path": "skill/varla-kol-contract-updater/README.en.md",
+      "bytes": 2560,
+      "sha256": "950ac9c213ce074dc0d3caaa7d3e52e77d89210ca80dde6e8c63812471ba7a4b"
+    },
+    {
+      "path": "skill/varla-kol-contract-updater/README.md",
+      "bytes": 2392,
+      "sha256": "a21763e19be55bdd2d36549f7c78000a75247afe178024c2dbaf4d4c181e6d8d"
     },
     {
       "path": "skill/varla-kol-contract-updater/scripts/update_contract.py",
