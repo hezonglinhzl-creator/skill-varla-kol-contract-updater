@@ -1,26 +1,26 @@
 {
   "files": 11,
-  "bytes": 35939,
+  "bytes": 39228,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 3728,
-      "sha256": "2de0c88581b96cf858fdf52b0551819858f1a8d1c962a5a94168803fa144a477"
+      "bytes": 4018,
+      "sha256": "cc7be072a056b8934c70eb27cccf85f9ae96b754d9c73959173672545eeadf82"
     },
     {
       "path": "README.md",
-      "bytes": 3457,
-      "sha256": "00cc00f69511dccfdea41d723ce13274c45de6885291450a3e1d9b64e003ac8f"
+      "bytes": 3693,
+      "sha256": "bf61db2a650bb305b8b1f22cea42d47b4b134eaa44a1ae43c1a1c7b8667160eb"
     },
     {
       "path": "skill/varla-kol-contract-updater/agents/openai.yaml",
@@ -44,8 +44,8 @@
     },
     {
       "path": "skill/varla-kol-contract-updater/SKILL.md",
-      "bytes": 11389,
-      "sha256": "a81617cb80429cac12c815087f84c554e591dea7ee482ccca023bd52bd383603"
+      "bytes": 12434,
+      "sha256": "b82a57224fc32c003725a2a6f482eabc953805f9a4700a581a5c88d01f9dc4b7"
     },
     {
       "path": "安装Skill.cmd",
